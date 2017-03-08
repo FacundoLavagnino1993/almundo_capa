@@ -1,0 +1,20 @@
+{
+  "name": "almundo_capacitacion",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Almundo"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FacundoLavagnino1993/almundo_capa",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

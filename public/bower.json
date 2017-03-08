@@ -1,0 +1,17 @@
+{
+  "name": "angular",
+  "homepage": "https://github.com/FacundoLavagnino1993/almundo_capa",
+  "authors": [
+    "FacundoLavagnino <facu9396@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
