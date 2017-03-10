@@ -8,6 +8,7 @@
   "author": "Almundo",
   "license": "",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.5.1",
     "jade": "^1.11.0"
   },
